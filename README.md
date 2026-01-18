@@ -1,4 +1,4 @@
-Датасет взят (отсюда)[https://www.kaggle.com/datasets/ivan314sh/prices-of-moscow-apartments].
+Датасет взят [отсюда](https://www.kaggle.com/datasets/ivan314sh/prices-of-moscow-apartments).
 
 ---
 
